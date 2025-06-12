@@ -18,6 +18,7 @@ java_defaults {
     ],
 
     static_libs: [
+        "TestParameterInjector",
         "androidx.media_media",
         "TestParameterInjector",
         "androidx.test.ext.truth",
